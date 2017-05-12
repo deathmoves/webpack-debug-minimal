@@ -7,4 +7,4 @@ To build / run:
 - `npm install`
 - `webpack --watch`
 
-From WebStorm / IntelliJ - launch the Chrome Ext by launching Debug from `src/index.html` and insert a breakpoint into `src/ts/main.ts`
+From WebStorm / IntelliJ - Debug from `src/index.html` (to launch the Chrome Ext) and insert a breakpoint in `src/ts/main.ts`
